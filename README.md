@@ -137,7 +137,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/Ichuuukm)
-- Email: muhammedkmm750@gmil.com
+- Email: muhammedkmm750@gamil.com
 
 ## 🙏 Acknowledgments
 
