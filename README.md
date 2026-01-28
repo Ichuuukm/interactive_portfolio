@@ -1,4 +1,5 @@
 # 🚀 Interactive Portfolio Website
+sample: https://ichuuukm.github.io/interactive_portfolio/
 
 A modern, elegant, and fully responsive portfolio website built with vanilla HTML, CSS, and JavaScript. Features beautiful animations, interactive elements, and a professional design that showcases your work in style.
 
