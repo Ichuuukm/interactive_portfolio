@@ -137,7 +137,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/Ichuuukm)
-- Email: muhammedkmm750@gmail.com
+- Email: muhammedkm750@gmail.com
 
 ## 🙏 Acknowledgments
 
