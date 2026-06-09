@@ -157,6 +157,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ⭐ **Star this repo if you find it helpful!** ⭐
 
-Made with ❤️ and lots of ☕
+Made with ❤️ and lots of ☕ s
 
 
